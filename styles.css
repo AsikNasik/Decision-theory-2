@@ -1,0 +1,18 @@
+table {
+  border: 1px solid #69c;
+}
+th {
+  font-weight: normal;
+  color: #039;
+  border-bottom: 1px dashed #69c;
+  padding: 3px 3px;
+  font-size: 12px;
+}
+td {
+  color: #669;
+  padding: 3px 3px;
+}
+
+tr th{
+    color: red;
+}
